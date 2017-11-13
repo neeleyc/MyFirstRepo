@@ -1,4 +1,4 @@
-
+import time 
 #Source http://ordinaryhumanlanguage.ca/blog/wp-content/uploads/2017/07/Mad-Libs-Example.jpg
 
 print ("Give me a noun")
@@ -63,6 +63,9 @@ print ("The" + adj2 + "turkey sat, steaming, next to a tureen of" + noun4 + "gra
 print ("A bowl of rudy-red " + noun4 + "sauce, a sweet- " + noun5 + " casserole, and a dish of mashed" + pnoun2 + "tempted my taste buds.")
 print ("But the dish I looked forward to most was Grandma " + person1 + " 's famous" + noun6 + "pie.")
 print ("Thanksgiving is my favorite holiday, " + body2 + " down")
+
+
+time.sleep (300)
        
 
 
